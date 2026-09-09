@@ -1,0 +1,44 @@
+{
+  "region": "Veyra",
+  "base_game": "Pokémon Platinum (USA Rev 1)",
+  "layout_principles": [
+    "north=tundra",
+    "east/northeast=Eastcrest Mountains",
+    "northwest=Verdant Forest",
+    "center=plains and Great Lake basin",
+    "west/south=coast",
+    "southeast=wetlands and small rain-shadow desert"
+  ],
+  "river_system": {
+    "source": "Eastcrest snowmelt",
+    "main_flow": "mountains -> Great Lake/central basin -> southern/western coast",
+    "branches": [
+      "western branch through forest to Driftwood coast",
+      "southern main channel through central plains",
+      "southeastern branch through Mirelow wetlands near Sunscar basin"
+    ]
+  },
+  "lakes": [
+    "Great Lake (large, central-northwest)",
+    "Little Lake (small, beside Willowmere)"
+  ],
+  "maps": [
+    {"name":"Willowmere Town","type":"town","recommended_scope":"small 2x2 chunks","connections":["Route 1","Little Lake"]},
+    {"name":"Cedarbrook Town","type":"town","recommended_scope":"small 2x2 chunks","connections":["Route 1","Route 2"]},
+    {"name":"Meadowgate City","type":"city","recommended_scope":"large 4x4 chunks","connections":["Route 2","Route 3"]},
+    {"name":"Verdant Forest","type":"forest dungeon","recommended_scope":"large 4x5 chunks","connections":["Route 3","Alderwood"]},
+    {"name":"Alderwood City","type":"city","recommended_scope":"medium 3x3 chunks","connections":["Verdant Forest","Route 4"]},
+    {"name":"Granite Hollow Mines","type":"multi-floor cave","recommended_scope":"3-4 floors","connections":["Route 4","Route 5"]},
+    {"name":"Lakehurst City","type":"city","recommended_scope":"large 4x4 chunks","connections":["Route 5","Route 6","Great Lake"]},
+    {"name":"Driftwood Town","type":"town","recommended_scope":"small 2x2 chunks","connections":["Route 6","Route 7"]},
+    {"name":"Seabreak City","type":"city","recommended_scope":"large 4x4 chunks","connections":["Route 7","Route 8","coastal water"]},
+    {"name":"Mirehaven City","type":"city","recommended_scope":"medium 3x4 chunks","connections":["Route 8","Route 9","Mirelow Preserve"]},
+    {"name":"Suncleft City","type":"city","recommended_scope":"medium 3x3 chunks","connections":["Route 9","Route 10"]},
+    {"name":"Eastcrest Caverns","type":"multi-floor cave","recommended_scope":"4-5 floors","connections":["Route 10","Route 11","Wildheart branch"]},
+    {"name":"Frostveil City","type":"town/city","recommended_scope":"medium 3x3 chunks","connections":["Route 11","Wildheart approach"]},
+    {"name":"Wildheart Sanctuary","type":"story dungeon","recommended_scope":"4-5 floors/rooms","connections":["Frostveil approach","Route 12"]},
+    {"name":"Cragspire Town","type":"outpost","recommended_scope":"tiny 2x2 chunks","connections":["Route 12","Route 13"]},
+    {"name":"Victory Road","type":"multi-floor cave/alpine","recommended_scope":"5-6 floors/sections","connections":["Route 13","Crownpeak"]},
+    {"name":"Crownpeak Plateau","type":"league","recommended_scope":"medium 3x3 exterior + interiors","connections":["Victory Road"]}
+  ]
+}
