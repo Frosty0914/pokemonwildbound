@@ -1,0 +1,181 @@
+regional_number,national_dex,pokemon,generation,family_id,primary_habitat,first_availability,notes
+1,387,Turtwig,4,1,starter / forest-plains,Starter choice,Starter family
+2,388,Grotle,4,1,starter / forest-plains,Starter choice,Starter family
+3,389,Torterra,4,1,starter / forest-plains,Starter choice,Starter family
+4,390,Chimchar,4,2,starter / rocky grassland,Starter choice,Starter family
+5,391,Monferno,4,2,starter / rocky grassland,Starter choice,Starter family
+6,392,Infernape,4,2,starter / rocky grassland,Starter choice,Starter family
+7,393,Piplup,4,3,starter / coast-tundra,Starter choice,Starter family
+8,394,Prinplup,4,3,starter / coast-tundra,Starter choice,Starter family
+9,395,Empoleon,4,3,starter / coast-tundra,Starter choice,Starter family
+10,161,Sentret,2,4,central plains,Route 1,Common early mammal
+11,162,Furret,2,4,central plains,Route 1,Common early mammal
+12,427,Buneary,4,5,central plains / forest edge,Route 1,Common early mammal
+13,428,Lopunny,4,5,central plains / forest edge,Route 1,Common early mammal
+14,396,Starly,4,6,plains / coast / migration corridors,Route 1,Common regional bird
+15,397,Staravia,4,6,plains / coast / migration corridors,Route 1,Common regional bird
+16,398,Staraptor,4,6,plains / coast / migration corridors,Route 1,Common regional bird
+17,403,Shinx,4,7,plains / developed edges,Route 1,Early Electric option
+18,404,Luxio,4,7,plains / developed edges,Route 1,Early Electric option
+19,405,Luxray,4,7,plains / developed edges,Route 1,Early Electric option
+20,163,Hoothoot,2,8,forest / plains at night,Route 1 night,Night encounter
+21,164,Noctowl,2,8,forest / plains at night,Route 1 night,Night encounter
+22,179,Mareep,2,9,farmland / grassland,Route 2,Rural Electric line
+23,180,Flaaffy,2,9,farmland / grassland,Route 2,Rural Electric line
+24,181,Ampharos,2,9,farmland / grassland,Route 2,Rural Electric line
+25,43,Oddish,1,10,forest / wetland,Route 2,Common plant line
+26,44,Gloom,1,10,forest / wetland,Route 2,Common plant line
+27,45,Vileplume,1,10,forest / wetland,Route 2,Common plant line
+28,182,Bellossom,2,10,forest / wetland,Route 2,Common plant line
+29,265,Wurmple,3,11,forest,Route 2,Early bug line
+30,266,Silcoon,3,11,forest,Route 2,Early bug line
+31,267,Beautifly,3,11,forest,Route 2,Early bug line
+32,268,Cascoon,3,11,forest,Route 2,Early bug line
+33,269,Dustox,3,11,forest,Route 2,Early bug line
+34,167,Spinarak,2,12,forest at night,Verdant Forest,Night bug
+35,168,Ariados,2,12,forest at night,Verdant Forest,Night bug
+36,46,Paras,1,13,deep forest / caves,Verdant Forest,Fungal decomposer
+37,47,Parasect,1,13,deep forest / caves,Verdant Forest,Fungal decomposer
+38,214,Heracross,2,14,deep forest,Verdant Forest rare,Rare forest beetle
+39,123,Scyther,1,15,forest / mountain,Verdant Forest rare,Rare predator; Scizor evolves normally
+40,212,Scizor,2,15,forest / mountain,Verdant Forest rare,Rare predator; Scizor evolves normally
+41,193,Yanma,2,16,forest streams / wetland,Verdant Forest,Wetland insect
+42,469,Yanmega,4,16,forest streams / wetland,Verdant Forest,Wetland insect
+43,198,Murkrow,2,17,forest / hills at night,Route 3 night,Nocturnal scavenger
+44,430,Honchkrow,4,17,forest / hills at night,Route 3 night,Nocturnal scavenger
+45,228,Houndour,2,18,dry forest / foothills,Route 4,Predator; Team Verdant motif
+46,229,Houndoom,2,18,dry forest / foothills,Route 4,Predator; Team Verdant motif
+47,207,Gligar,2,19,rocky forest / mountains,Route 4,Cliff-dweller
+48,472,Gliscor,4,19,rocky forest / mountains,Route 4,Cliff-dweller
+49,451,Skorupi,4,20,forest floor / wetland / desert,Route 4,Adaptable venomous species
+50,452,Drapion,4,20,forest floor / wetland / desert,Route 4,Adaptable venomous species
+51,406,Budew,4,21,forest edge / lake / wetland,Route 2,Common flower line
+52,315,Roselia,3,21,forest edge / lake / wetland,Route 2,Common flower line
+53,407,Roserade,4,21,forest edge / lake / wetland,Route 2,Common flower line
+54,114,Tangela,1,22,wetland / ancient forest,Mirelow Preserve,Dense vegetation
+55,465,Tangrowth,4,22,wetland / ancient forest,Mirelow Preserve,Dense vegetation
+56,285,Shroomish,3,23,humid forest,Verdant Forest,Forest fungus
+57,286,Breloom,3,23,humid forest,Verdant Forest,Forest fungus
+58,453,Croagunk,4,24,wetland,Mirelow Wetlands,Marsh amphibian
+59,454,Toxicroak,4,24,wetland,Mirelow Wetlands,Marsh amphibian
+60,194,Wooper,2,25,rivers / wetlands,Great Lake approaches,Freshwater amphibian
+61,195,Quagsire,2,25,rivers / wetlands,Great Lake approaches,Freshwater amphibian
+62,54,Psyduck,1,26,lake / rivers,Route 5,Freshwater
+63,55,Golduck,1,26,lake / rivers,Route 5,Freshwater
+64,129,Magikarp,1,27,all major waters,Old Rod,Common fishing line
+65,130,Gyarados,1,27,all major waters,Old Rod,Common fishing line
+66,118,Goldeen,1,28,lake / rivers,Good Rod,Freshwater fish
+67,119,Seaking,1,28,lake / rivers,Good Rod,Freshwater fish
+68,170,Chinchou,2,29,deep lake / coast,Great Lake Surf,Deep-water Electric line
+69,171,Lanturn,2,29,deep lake / coast,Great Lake Surf,Deep-water Electric line
+70,349,Feebas,3,30,Great Lake,Great Lake Super Rod rare,Rare lake species
+71,350,Milotic,3,30,Great Lake,Great Lake Super Rod rare,Rare lake species
+72,422,Shellos,4,31,river delta / coast,Route 8,Water-edge gastropod
+73,423,Gastrodon,4,31,river delta / coast,Route 8,Water-edge gastropod
+74,223,Remoraid,2,32,coast / Great Lake,Good Rod,Fishing species
+75,224,Octillery,2,32,coast / Great Lake,Good Rod,Fishing species
+76,418,Buizel,4,33,rivers / coast,Route 6,River swimmer
+77,419,Floatzel,4,33,rivers / coast,Route 6,River swimmer
+78,278,Wingull,3,34,coast,Route 7,Coastal bird
+79,279,Pelipper,3,34,coast,Route 7,Coastal bird
+80,72,Tentacool,1,35,ocean coast,Seabreak Surf,Marine
+81,73,Tentacruel,1,35,ocean coast,Seabreak Surf,Marine
+82,131,Lapras,1,36,Great Lake / cold waters,Great Lake Surf rare,Rare freshwater/cold-water encounter
+83,41,Zubat,1,37,caves / mines,Granite Hollow,Cave staple
+84,42,Golbat,1,37,caves / mines,Granite Hollow,Cave staple
+85,169,Crobat,2,37,caves / mines,Granite Hollow,Cave staple
+86,74,Geodude,1,38,mines / mountains,Granite Hollow,Rocky cave line
+87,75,Graveler,1,38,mines / mountains,Granite Hollow,Rocky cave line
+88,76,Golem,1,38,mines / mountains,Granite Hollow,Rocky cave line
+89,95,Onix,1,39,mines / high mountains,Granite Hollow,Mining/mountain line
+90,208,Steelix,2,39,mines / high mountains,Granite Hollow,Mining/mountain line
+91,66,Machop,1,40,mine / mountains,Granite Hollow,Labor/mountain line
+92,67,Machoke,1,40,mine / mountains,Granite Hollow,Labor/mountain line
+93,68,Machamp,1,40,mine / mountains,Granite Hollow,Labor/mountain line
+94,436,Bronzor,4,41,mines / ruins / mountains,Granite Hollow lower,Ancient metallic line
+95,437,Bronzong,4,41,mines / ruins / mountains,Granite Hollow lower,Ancient metallic line
+96,355,Duskull,3,42,caves / ruins,Granite Hollow lower rare,Decay/ruins
+97,356,Dusclops,3,42,caves / ruins,Granite Hollow lower rare,Decay/ruins
+98,477,Dusknoir,4,42,caves / ruins,Granite Hollow lower rare,Decay/ruins
+99,241,Miltank,2,43,central farmland,Route 3 rare,Gym 1 ace also catchable
+100,77,Ponyta,1,44,dry plains / desert edge,Route 9,Open-country fire line
+101,78,Rapidash,1,44,dry plains / desert edge,Route 9,Open-country fire line
+102,133,Eevee,1,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+103,134,Vaporeon,1,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+104,135,Jolteon,1,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+105,136,Flareon,1,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+106,196,Espeon,2,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+107,197,Umbreon,2,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+108,470,Leafeon,4,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+109,471,Glaceon,4,45,multiple biomes,Lakehurst gift,One gift Eevee; standard Gen 4 evolutions
+110,187,Hoppip,2,46,lake breeze / plains,Route 5,Wind-dispersed plant line
+111,188,Skiploom,2,46,lake breeze / plains,Route 5,Wind-dispersed plant line
+112,189,Jumpluff,2,46,lake breeze / plains,Route 5,Wind-dispersed plant line
+113,280,Ralts,3,47,quiet lake / forest edge,Route 5 rare,Rare psychic line
+114,281,Kirlia,3,47,quiet lake / forest edge,Route 5 rare,Rare psychic line
+115,282,Gardevoir,3,47,quiet lake / forest edge,Route 5 rare,Rare psychic line
+116,475,Gallade,4,47,quiet lake / forest edge,Route 5 rare,Rare psychic line
+117,447,Riolu,4,48,mountain / human partnership,Alderwood conservation quest Egg,Gift/quest species
+118,448,Lucario,4,48,mountain / human partnership,Alderwood conservation quest Egg,Gift/quest species
+119,270,Lotad,3,49,wetland / lake margins,Mirelow Wetlands,Aquatic plant line
+120,271,Lombre,3,49,wetland / lake margins,Mirelow Wetlands,Aquatic plant line
+121,272,Ludicolo,3,49,wetland / lake margins,Mirelow Wetlands,Aquatic plant line
+122,316,Gulpin,3,50,wetland / disturbed habitats,Route 8,Decomposer / pollution-tolerant line
+123,317,Swalot,3,50,wetland / disturbed habitats,Route 8,Decomposer / pollution-tolerant line
+124,455,Carnivine,4,51,wetland preserve,Mirelow Preserve,Rare carnivorous plant
+125,339,Barboach,3,52,muddy rivers / wetlands,Mirelow fishing,Mud fish
+126,340,Whiscash,3,52,muddy rivers / wetlands,Mirelow fishing,Mud fish
+127,449,Hippopotas,4,53,desert basin,Sunscar Desert,Desert keystone line
+128,450,Hippowdon,4,53,desert basin,Sunscar Desert,Desert keystone line
+129,328,Trapinch,3,54,desert / canyon,Sunscar Desert,Desert dragon line
+130,329,Vibrava,3,54,desert / canyon,Sunscar Desert,Desert dragon line
+131,330,Flygon,3,54,desert / canyon,Sunscar Desert,Desert dragon line
+132,331,Cacnea,3,55,desert,Sunscar Desert,Desert plant line
+133,332,Cacturne,3,55,desert,Sunscar Desert,Desert plant line
+134,322,Numel,3,56,badlands / volcanic rock,Sunscar Desert,Dryland fire line
+135,323,Camerupt,3,56,badlands / volcanic rock,Sunscar Desert,Dryland fire line
+136,345,Lileep,3,57,fossil / ancient sea,Granite Hollow fossil -> Suncleft revival,Fossil line
+137,346,Cradily,3,57,fossil / ancient sea,Granite Hollow fossil -> Suncleft revival,Fossil line
+138,220,Swinub,2,58,tundra,Frostveil,Cold-climate line
+139,221,Piloswine,2,58,tundra,Frostveil,Cold-climate line
+140,473,Mamoswine,4,58,tundra,Frostveil,Cold-climate line
+141,215,Sneasel,2,59,tundra / high mountains,Frostveil,Alpine predator
+142,461,Weavile,4,59,tundra / high mountains,Frostveil,Alpine predator
+143,459,Snover,4,60,tundra / alpine treeline,Route 11,Snow forest line
+144,460,Abomasnow,4,60,tundra / alpine treeline,Route 11,Snow forest line
+145,361,Snorunt,3,61,tundra / ice caves,Frostveil,Ice line
+146,362,Glalie,3,61,tundra / ice caves,Frostveil,Ice line
+147,478,Froslass,4,61,tundra / ice caves,Frostveil,Ice line
+148,225,Delibird,2,62,tundra,Frostveil rare,Rare cold-weather species
+149,363,Spheal,3,63,cold coast / tundra pools,Frostveil water,Cold-water line
+150,364,Sealeo,3,63,cold coast / tundra pools,Frostveil water,Cold-water line
+151,365,Walrein,3,63,cold coast / tundra pools,Frostveil water,Cold-water line
+152,333,Swablu,3,64,mountain skies,Route 10 rare,Highland flyer
+153,334,Altaria,3,64,mountain skies,Route 10 rare,Highland flyer
+154,81,Magnemite,1,65,mines / power infrastructure / mountains,Granite Hollow rare,Technology + geology
+155,82,Magneton,1,65,mines / power infrastructure / mountains,Granite Hollow rare,Technology + geology
+156,462,Magnezone,4,65,mines / power infrastructure / mountains,Granite Hollow rare,Technology + geology
+157,227,Skarmory,2,66,mountain cliffs,Route 10 rare,Mountain steel bird
+158,359,Absol,3,67,mountains / disaster sites,Route 10 rare,Vale signature; disaster-sensing species
+159,92,Gastly,1,68,ruins / old mines at night,Old Cragspire Mine / Wildheart,Ghost line
+160,93,Haunter,1,68,ruins / old mines at night,Old Cragspire Mine / Wildheart,Ghost line
+161,94,Gengar,1,68,ruins / old mines at night,Old Cragspire Mine / Wildheart,Ghost line
+162,200,Misdreavus,2,69,forest shrines / ruins at night,Verdant Forest night rare,Shrine ghost
+163,429,Mismagius,4,69,forest shrines / ruins at night,Verdant Forest night rare,Shrine ghost
+164,353,Shuppet,3,70,abandoned structures / desert ruins,Suncleft ruins,Discarded-object ghost
+165,354,Banette,3,70,abandoned structures / desert ruins,Suncleft ruins,Discarded-object ghost
+166,425,Drifloon,4,71,windy plains / abandoned mine,Granite Hollow exterior special,Wind/ghost line
+167,426,Drifblim,4,71,windy plains / abandoned mine,Granite Hollow exterior special,Wind/ghost line
+168,442,Spiritomb,4,72,ancient shrines,Little Lake shrine side event,Special encounter
+169,37,Vulpix,1,73,dry scrub / forest edge,Route 7 rare,Fire ecology
+170,38,Ninetales,1,73,dry scrub / forest edge,Route 7 rare,Fire ecology
+171,58,Growlithe,1,74,dry grassland / coast,Route 8 rare,Fire ecology
+172,59,Arcanine,1,74,dry grassland / coast,Route 8 rare,Fire ecology
+173,240,Magby,2,75,hot badlands / industrial heat,Sunscar rare,Fire line
+174,126,Magmar,1,75,hot badlands / industrial heat,Sunscar rare,Fire line
+175,467,Magmortar,4,75,hot badlands / industrial heat,Sunscar rare,Fire line
+176,172,Pichu,2,76,forest edge / human settlements,Route 2 rare,Familiar Electric line
+177,25,Pikachu,1,76,forest edge / human settlements,Route 2 rare,Familiar Electric line
+178,26,Raichu,1,76,forest edge / human settlements,Route 2 rare,Familiar Electric line
+179,357,Tropius,3,77,wetland preserve / warm forest,Mirelow Preserve rare,Vale team; tropical plant
+180,251,Celebi,2,78,Wildheart Sanctuary,Story Legendary,Wildheart Legendary; guardian/time theme
