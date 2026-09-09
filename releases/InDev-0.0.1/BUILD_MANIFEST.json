@@ -1,0 +1,23 @@
+{
+  "version": "InDev 0.0.1 Intro Test",
+  "base_rom": "Pokemon Platinum Version USA Rev 1 / v01",
+  "base_sha1": "0862ec35b24de5c7e2dcb88c9eea0873110d755c",
+  "expected_output_size": 141815352,
+  "expected_output_sha1": "c75716bfee5b59e83036552727f73477c402005c",
+  "expected_output_sha256": "1f11c87b441b2bf867adfb1260dcd5133922554d3b874637e6aadc05c0acdfd3",
+  "builder": "tools/build_intro_test.py",
+  "assets": [
+    "assets/indev-0.0.1/professor_linden_ds_layer.png",
+    "assets/indev-0.0.1/male_player_ds_layer.png",
+    "assets/indev-0.0.1/wildbound_title_ds_layer.png",
+    "assets/indev-0.0.1/wildbound_title_target.png"
+  ],
+  "modified_nitrofs": [
+    "demo/intro/intro.narc",
+    "demo/title/titledemo.narc",
+    "msgdata/pl_msg.narc",
+    "msgdata/msg.narc"
+  ],
+  "world_maps_modified": false,
+  "full_rom_distributed": false
+}
