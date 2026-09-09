@@ -1,0 +1,28 @@
+# Never commit commercial ROM images
+*.nds
+*.3ds
+*.cia
+*.gba
+*.gbc
+*.gb
+
+# Extracted copyrighted ROM data / temporary build output
+build/
+rom/
+base/
+extracted/
+tmp/
+*.bin
+*.narc
+*.ncgr
+*.nclr
+*.nscr
+*.nsbmd
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
